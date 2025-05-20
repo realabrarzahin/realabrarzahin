@@ -1,16 +1,14 @@
-## Hi there 👋
+## Md Abrar Zahin Antor, Completing B.Sc(Eng) in CSE at University of Dhaka
 
-<!--
-**realabrarzahin/realabrarzahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **20 May, 2025 :**
 
-Here are some ideas to get you started:
+Completed "Learn Git: The Full Course" by Boot.dev on YouTube. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Repositories I used:** 
+1. [webflyx](https://github.com/realabrarzahin/webflyx)
+2. [megacorp](https://github.com/realabrarzahin/megacorp)
+
+**Videos:**
+1. [Learn Git - The Full Course](https://youtu.be/rH3zE7VlIMs?si=031hahakZL3vRSxs)
+
+**tags:** git, github
