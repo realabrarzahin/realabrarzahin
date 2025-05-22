@@ -1,5 +1,3 @@
-
-![[./files/1.png]]
 ## Md Abrar Zahin Antor
 ### Completing B.Sc(Eng) in CSE at University of Dhaka
 
