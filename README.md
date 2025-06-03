@@ -7,6 +7,7 @@ Completed first 5 Chapters of "Pro Git Book" by Scott Chacon and Ben Straub.
 
 **Books:**
 1. [Pro Git Book](https://git-scm.com/book/en/v2)
+
 **tags:** git
 
 ### **20 May, 2025 :**
